@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+ekctl_env1/
+
+# PyInstaller build artifacts
+build/
+dist/
+
+# Packaging / 산출물
+*.zip
